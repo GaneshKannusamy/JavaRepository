@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="check.CheckTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-01-18T17:25:59" hostname="AB61138" time="0.014">
+  <properties/>
+  <testcase name="testsRun()" classname="check.CheckTest" time="0.014"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
